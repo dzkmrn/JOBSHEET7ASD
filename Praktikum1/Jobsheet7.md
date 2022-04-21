@@ -413,7 +413,9 @@ public class PostfixMain {
 <br>
 
 **Jawaban**
+
 <img src = "postfix.png">
+
 4. Pada soal nomor 3, mengapa tanda kurung tidak ditampilkan pada hasil konversi? Jelaskan!
 <br>
 
